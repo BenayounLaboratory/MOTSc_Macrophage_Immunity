@@ -12,4 +12,3 @@ Affiliations:
 4 USC Stem Cell Initiative, Los Angeles, CA 90089.
 5 Molecular and Computational Biology Department, USC Dornsife College of Letters, Arts and Sciences, Los Angeles, CA 90089.
 6 Biomedical Science, Graduate School, Ajou University, Suwon 16499, Korea.
-![image](https://user-images.githubusercontent.com/35042323/136257154-ca7ee98d-a6de-4131-a21b-37ba9553507a.png)
