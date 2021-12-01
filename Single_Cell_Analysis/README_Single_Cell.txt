@@ -10,5 +10,5 @@ Scripts for analysis of single-cell RNA-seq of mouse BMDM differentiated in the 
 		* Phantompurge_accessory_functions.R: accessory functions for phantompurge processing
 		
 - Seurat_and_enrichment: 
-		* 2021-06-24_analyze_BMDM_aging_scRNAseq.R: script for Seurat data processing
-		* run_GO_analysis.R: script for GO enrichment analysis on cluster markers
+		* 2021-12-01_analyze_BMDM_aging_scRNAseq.R: script for Seurat data processing
+		* 2021-12-01_run_GO_analysis.R: script for GO enrichment analysis on cluster markers
